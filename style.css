@@ -37,6 +37,19 @@ p{
 	color: black;
 	text-decoration: none;
 }
+#bovenbalk{
+	 background-image: url("bar1.png");
+	 color: gray;
+}
+#bovenbalk:hover{
+	 background-image: url("bar2.png");
+	 color:black;
+}
+#title{
+	position: relative;
+	top: -169px;
+	left: 20px;
+}
 #humanfactor{
 	color: blue;
 }
@@ -53,19 +66,6 @@ p{
 	display: none;
 	position: absolute;
 	border: 2px solid blue;
-}
-#bovenbalk{
-	 background-image: url("bar1.png");
-	 color: gray;
-}
-.stuff:hover{
-	 background-image: url("bar2.png");
-	 color:black;
-}
-#title{
-	position: relative;
-	top: -169px;
-	left: 20px;
 }
 #saw{
 	position: relative;
