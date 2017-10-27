@@ -38,12 +38,16 @@ p{
 	text-decoration: none;
 }
 #bovenbalk{
-	 background-image: url("afbeelding/bar1.png");
-	 color: gray;
+	padding: 0px;
+	margin: 0px;
+	background-image: url("afbeelding/bar1.png");
+	color: gray;
 }
 #bovenbalk:hover{
-	 background-image: url("afbeelding/bar2.png");
-	 color:black;
+	padding: 0px;
+	margin: 0px;
+	background-image: url("afbeelding/bar2.png");
+	color:black;
 }
 #title{
 	position: relative;
